@@ -24,6 +24,8 @@ Follow the documentation to deploy the Flask application on Google Cloud Run. We
 
 Follow lab instructions for the remainder of the tutorials, files, and links. We followed this tutorial: https://github.com/runck014/cloud_run_demo
 
+Link to the Repo that Google Cloud Run utilizes: https://github.com/Briol009/GoogleCloud5572
+
 ## Note:
 
 Ensure to handle sensitive information such as passwords securely.
@@ -31,3 +33,5 @@ Ensure to handle sensitive information such as passwords securely.
 For issues with VM deployment, consider migrating to Google Cloud Run.
 
 For a detailed explanation of the data flow, refer to the provided video recording in folder Lab 1.2.
+
+Code was written with the help of generative AI (ChatGPT)
