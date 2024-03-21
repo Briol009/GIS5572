@@ -2,7 +2,7 @@
 
 ## The goal of this lab is to create interpolated temperature maps for the state of Minnesota and evaluate their accuracy. The resulting maps and accuracy assessments will be stored in a database and made accessible via a Flask API endpoint for viewing on ArcOnline's MapViewer.
 
-## Contents
+## Contents:
 
 Jupyter Notebooks
 
@@ -28,7 +28,7 @@ Performs accuracy assessment, focusing on the Kriging interpolation method.
 
 Deploys the project on Google Cloud Run, enabling access through an API link on ArcGIS Online.
 
-## Requirements
+## Requirements:
 
 Python
 
@@ -38,7 +38,7 @@ Flask
 
 PostgreSQL with PostGIS extension
 
-## Helpful Links
+## Helpful Links:
 
 Google Cloud Run: https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service
 
