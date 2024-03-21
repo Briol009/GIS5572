@@ -1,6 +1,6 @@
 # Lab 3: Spatial Prediction
 
-## The goal of this lab is to create interpolated temperature maps for the state of Minnesota and evaluate their accuracy. The resulting maps and accuracy assessments will be stored in a database and made accessible via a Flask API endpoint for viewing on ArcOnline's MapViewer.
+The goal of this lab is to create interpolated temperature maps for the state of Minnesota and evaluate their accuracy. The resulting maps and accuracy assessments will be stored in a database and made accessible via a Flask API endpoint for viewing on ArcOnline's MapViewer.
 
 ## Contents:
 
